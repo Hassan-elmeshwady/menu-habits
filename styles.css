@@ -67,7 +67,7 @@ a {
 }
 
 .social-media a:hover {
-    color: rgb(238, 191, 4) /* تغيير اللون عند التحويل بالماوس */
+    color: rgb(238, 129, 4) /* تغيير اللون عند التحويل بالماوس */
 }
 
 .social-media a:hover:after {
@@ -107,7 +107,7 @@ body {
 
 .prev-button,
 .next-button {
-    background-color: #007bff;
+    background-color:#697564;
     color: white;
     border-radius: 40%;
     padding: 10px 20px;
@@ -118,7 +118,7 @@ body {
 
 .prev-button:hover,
 .next-button:hover {
-    background-color: #f0e104;
+    background-color: #f79307;
 }
 
 
